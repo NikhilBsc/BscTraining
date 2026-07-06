@@ -1,3 +1,0 @@
-name: Nikhil
-age: 23
-course: AI & MLnikhil - AI & ML
